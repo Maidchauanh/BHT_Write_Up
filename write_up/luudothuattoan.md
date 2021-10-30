@@ -1,5 +1,5 @@
 ### Đề bài
-[![](images/luudo/debailuudo.png)](../images/debailuudo.png "Đề bài lưu đồ")
+[![](images/luudo/debailuudo.png)](<../images/debailuudo.png> "Đề bài lưu đồ")
 #### Bài 1:
 [![](images/luudo/debailuudo_1.png)](../images/luudo/debailuudo1.png "Bài 1")
 ý tưởng: lấy số mũ chia nhị phân
