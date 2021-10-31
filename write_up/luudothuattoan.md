@@ -27,7 +27,9 @@ Ta có:
 **Lưu đồ:**
 
 ![bai giai luu do 1](../images/luudo/baigiailuudo1.png)
+
 #### Bài 2:
+
 ![de bai luu do 2](../images/luudo/debailuudo2.png)
 
 **Ý tưởng**: 
