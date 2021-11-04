@@ -82,10 +82,13 @@ cmath: chứa những hàm toán học dùng để sử dụng tính toán.
 
 #### Bài 9: 
 *Đề bài:*
-
 ![debailuudo9](../images/luudo/debailuudo9.png)
 
 *Bài giải:*
+
+```
+sử dụng một cờ hiệu (flag) soChinhPhuong để xác định liệu số có phải số chính phương hay không
+```
 
 ![bai9.png](../images/codeluudo/bai9.png)
 

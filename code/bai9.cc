@@ -4,14 +4,23 @@ using namespace std;
 int main() {
     int n;
     cin >> n;
+    int i = 0;
+    bool soChinhPhuong = false;
 
-    for(int i = 1; i <= n; i++) {
+    while(true) {
         if(i*i == n) {
-            cout << "n la so chinh phuong" << endl;
-            return 0;
+            soChinhPhuong = true;
+            break;
         }
+        else if (i*i > n) 
+            break;
+        i++;
     }
 
-    cout << "n khong phai la so chinh phuong" << endl;
+    if (soChinhPhuong) 
+        cout << "n la so chinh phuong" << endl;
+    else 
+        cout << "n khong la so chinh phuong" << endl;
+
     return 0;
 }
